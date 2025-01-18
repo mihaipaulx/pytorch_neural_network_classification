@@ -60,7 +60,7 @@ For torch installation, check [Pytorch's official page](https://pytorch.org/get-
 1. Clone the repository:
    ```bash
    git clone https://github.com/mihaipaulx/pytorch_neural_network_classification.git
-   cd your-repository
+   cd pytorch_neural_network_classification
    ```
 2. Run the script:
    ```bash
