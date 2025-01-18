@@ -12,7 +12,7 @@ This repository demonstrates how to build, train, and evaluate a PyTorch-based n
 
 ## Files
 
-- `pytorch_neural_network_classification.py`: Main Python script containing all functionalities from data preprocessing to visualization.
+- `pytorch_neural_network_classification.ipynb`: Main Jupyter notebook containing all functionalities from data preprocessing to visualization.
 
 ## Requirements
 
